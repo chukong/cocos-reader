@@ -7,10 +7,10 @@ for Cocos 2.1beta [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMa
 What’s new in Cocos 2.1 Beta:
  * 【Feature】Updated user interface, easy to set for different screen resolutions.
  * 【Feature】Download Cocos related widgets from the widget store. 
- * 【Feature】Added a skeletal widget that supports the animation data created from Cocos Studio v.1.6 .
+ * 【Feature】Added a "Armature" widget that supports the animation data created from Cocos Studio v.1.6 animation editor.
  * 【Fix】Fixed the bug that cannot create frames with SpriteSheet.
 
 What’s new in cocos-reader 2.0.8.0:
  * 【Feature】Updated user interface, easy to set for different screen resolutions.
- * 【Feature】Added a skeletal widget that supports the animation data created from Cocos Studio v.1.6 .
+ * 【Feature】Added a "Armature" widget that supports the animation data created from Cocos Studio v.1.6 animation editor.
  * 【Fix】Fixed the bug that cannot create frames with SpriteSheet.

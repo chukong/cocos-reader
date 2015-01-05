@@ -1,6 +1,6 @@
 cocos-reader
 ============
-**[<p align="right">`中文版`</p>](#chinese)**
+[<p align="right">`中文版`</p>](#chinese)
 If your Cocos exported file build id dismatches your Cocos2d-x reader build id, please get the correct reader from this table and put it into the Cocos2d-x in your game project to update your reader(If your current Cocos2d-x version is different from  what the new reader is based on, you may need to update your Cocos2d-x).
 
 | cocos-reader | Based on cocos2d-x | Match with Cocos |

@@ -14,13 +14,7 @@ What’s new in cocos-reader 2.0.8.0:
  * 【Feature】Updated user interface, easy to set for different screen resolutions.  
  * 【Feature】Added a "Armature" widget that supports the animation data created from Cocos Studio v.1.6 animation editor.  
  * 【Fix】Fixed the bug that cannot create frames with SpriteSheet.  
-  
-  
-  
-  
-  
-  
-  
+<br><br><br><br><br><br><br><br><br>
 <a name="chinese"/>`中文版`  
 用cocos2d文件夹覆盖游戏项目中的同名目录。  
   

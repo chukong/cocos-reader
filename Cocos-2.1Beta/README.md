@@ -16,12 +16,12 @@ What’s new in cocos-reader 2.0.8.0:
  * 【Feature】Updated user interface, easy to set for different screen resolutions.
  * 【Feature】Added a "Armature" widget that supports the animation data created from Cocos Studio v.1.6 animation editor.
  * 【Fix】Fixed the bug that cannot create frames with SpriteSheet.
-<br><br><br>
-<a name="chinese"/>
+ * 
+<br><br><br><br><br><br><a name="chinese"/>
 用cocos2d文件夹覆盖游戏项目中的同名目录。
 
 此reader的build id是**2.0.8.0**，
-基于[cocos2d-x-3.4beta0](https://github.com/cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.4beta0),
+基于[cocos2d-x-3.4beta0](https://github.com/cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.4beta0)，
 所匹配的Cocos是Cocos 2.1beta [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe)。
 
 Cocos 2.1 更新说明：

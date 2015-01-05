@@ -17,6 +17,10 @@ What’s new in cocos-reader 2.0.8.0:
   
   
   
+  
+  
+  
+  
 <a name="chinese"/>`中文版`  
 用cocos2d文件夹覆盖游戏项目中的同名目录。  
   

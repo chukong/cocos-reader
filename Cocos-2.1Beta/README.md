@@ -1,6 +1,6 @@
 Extract the folder cocos2d and overwrite the folder with same name in your game project.  
   
-The reader build id is **2.0.8.0**, bases on [cocos2d-x-3.4beta0](https://github.com/cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.4beta0), for Cocos 2.1beta [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe)
+The reader build id is **2.0.8.0**, bases on [cocos2d-x-3.4beta0](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4beta0.zip), for Cocos 2.1beta [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe)
 
 What’s new in Cocos 2.1 Beta:  
  * 【Feature】Updated user interface, easy to set for different screen resolutions.  
@@ -17,7 +17,7 @@ What’s new in cocos-reader 2.0.8.0:
 用cocos2d文件夹覆盖游戏项目中的同名目录。  
   
 此reader的build id是**2.0.8.0**，
-基于[cocos2d-x-3.4beta0](https://github.com/cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.4beta0)，所匹配的Cocos是Cocos 2.1beta [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe)。
+基于[cocos2d-x-3.4beta0](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4beta0.zip)，匹配Cocos 2.1beta [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe)。
 
 Cocos 2.1 更新说明：
  * 【新增】全新UI布局：深度优化的UI布局设计，轻松搞定游戏多分辨率适配问题

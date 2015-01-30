@@ -1,6 +1,6 @@
 Extract the folder cocos2d and overwrite the folder with same name in your game project.  
   
-The reader build id is **2.1.0.0**, bases on [cocos2d-x-3.4](https://github.com/cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.4), for Cocos 2.1beta [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)
+The reader build id is **2.1.0.0**, bases on [cocos2d-x-3.4](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip), for Cocos 2.1 [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)
 
 What’s new in Cocos 2.1:  
  * Cocos Store is available for various tools, widgets, material, and instances.
@@ -24,7 +24,7 @@ What’s new in cocos-reader 2.1.0.0:
 用cocos2d文件夹覆盖游戏项目中的同名目录。  
   
 此reader的build id是**2.1.0.0**，
-基于[cocos2d-x-3.4](https://github.com/cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.4)，所匹配的Cocos是Cocos 2.1 [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)。
+基于[cocos2d-x-3.4](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip)，匹配Cocos 2.1 [`For Mac`](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg)  [`For Windows`](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)。
 
 Cocos 2.1 更新说明：
  * 【新增】Cocos Store：提供丰富的工具、插件、素材、实例，方便用户下载集成
